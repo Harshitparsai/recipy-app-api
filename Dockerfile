@@ -1,5 +1,5 @@
 FROM python:3.9-alpine
-MAINTAINER Harshit App Development Company
+MAINTAINER Harshit Parsai App Development Company
 
 ENV PYTHONUNBUFFERED 1
 
